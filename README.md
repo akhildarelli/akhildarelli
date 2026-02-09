@@ -1,5 +1,5 @@
 Hi, I’m @akhildarelli
-- 👀 I’m interested in full-stack web development, mobile app development, and Devops
+- 👀 I’m interested in DevOps, full-stack web development and mobile app development
 - 🌱 I’m currently learning Python (Leet Code) and DevOps fundamentals
 - 💞️ I’m looking to collaborate on web applications, Flutter projects, and open-source repositories
 - 📫 How to reach me: darelliakhil5992@gmail.com
