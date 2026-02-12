@@ -1,7 +1,22 @@
 Hi, I’m @akhildarelli
-- 👀 I’m interested in DevOps, full-stack web development and mobile app development
-- 🌱 I’m currently learning Python (Leet Code) and DevOps fundamentals
-- 💞️ I’m looking to collaborate on web applications, Flutter projects, and open-source repositories
+🚀 Computer Science Undergraduate | Aspiring DevOps & Software Engineer
+
+I am passionate about building scalable applications and learning modern DevOps practices. I enjoy working across the full stack and continuously improving my problem-solving and automation skills.
+
+👀 Interests
+DevOps & Cloud Fundamentals
+Full-Stack Web Development
+Mobile App Development (Flutter)
+Open-Source Collaboration
+
+🌱 Currently Learning
+Python (Data Structures & Algorithms on LeetCode)
+DevOps Fundamentals (CI/CD, Jenkins, Git, GitHub)
+
+💞️ Open to Collaboration
+Web application projects
+Flutter & mobile app development
+
 - 📫 How to reach me: darelliakhil5992@gmail.com
 
 
